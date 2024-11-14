@@ -14,7 +14,9 @@ const HomePage = () => {
         <div className="textContainer">
             <div className="wrapper">
                 <h1 className='title'>Find your Perfect home away from HOME near your Second Home</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima illum ab consequatur repudiandae repellendus consequuntur nulla, odit facilis eligendi quas.</p>
+                <p>
+                Find a place that feels like home, right near your second home: school. Experience comfort, convenience, and a perfect fit for your lifestyle, so you can focus on what matters most.
+                </p>
                 <SearchBar />
 
                 <div className='boxes'>
