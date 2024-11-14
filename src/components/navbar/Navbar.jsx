@@ -64,5 +64,3 @@ function Navbar () {
 }
 
 export default Navbar
-
-//https://youtu.be/eJ3YysWaP_A?list=PLj-4DlPRT48njIa8I19ftTjUxyys9ebcf&t=6364
