@@ -2,6 +2,7 @@ import { useContext } from 'react'
 import SearchBar from '../../components/searchBar/SearchBar'
 import './homePage.scss'
 import { AuthContext } from '../../context/AuthContext'
+import PopularPlaces from '../../components/popularPlaces/popularPlaces'
 
 const HomePage = () => {
 
@@ -33,6 +34,11 @@ const HomePage = () => {
                         <h2>Boarding Houses</h2>
                     </div>
                 </div>
+
+                {/* <div className='popularBh'>
+                    <PopularPlaces />
+                </div> */}
+
             </div>
         </div>
         <div className="imgContainer">
