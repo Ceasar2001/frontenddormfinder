@@ -114,7 +114,7 @@ export const listData = [
     bus: "100m away",
     restaurant: "50m away",
     description:
-      "Future alike hill pull picture swim magic chain seed engineer nest outer raise bound easy poetry gain loud weigh me recognize farmer bare danger. actually put square leg vessels earth engine matter key cup indeed body film century shut place environment were stage vertical roof bottom lady function breeze darkness beside tin view local breathe carbon swam declared magnet escape has from pile apart route coffee storm someone hold space use ahead sheep jungle closely natural attached part top grain your grade trade corn salmon trouble new bend most teacher range anybody every seat fifteen eventually",
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam repellendus voluptatum quae rem quaerat modi quod perferendis sapiente autem quia necessitatibus reiciendis, provident sit quam sequi architecto non consequatur voluptate!",
   };
   
   export const userData = {
