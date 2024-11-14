@@ -9,6 +9,9 @@ import SinglePage from "./routes/singlePage/SinglePage";
 import ProfilePage from "./routes/profile/profilePage";
 import Login from "./routes/login/login";
 import Register from "./routes/register/register";
+import About from "./routes/about/about";
+import Contact from "./routes/contact/contact";
+import Faqs from "./routes/faqs/faqs";
 
 function App() {
 
@@ -20,6 +23,18 @@ function App() {
        {
         path: "/",
         element: <HomePage />
+       },
+       {
+        path: "/about",
+        element: <About />
+       },
+       {
+        path: "/contact",
+        element: <Contact />
+       },
+       {
+        path: "/faqs",
+        element: <Faqs />
        },
        {
         path: "/list",

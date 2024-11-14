@@ -18,9 +18,9 @@ function Navbar () {
             <span>DormFinder</span>
           </a>
           <a href="/">Home</a>
-          <a href="/">About</a>
-          <a href="/">Contact</a>
-          <a href="/">Faqs</a>
+          <a href="/about">About</a>
+          <a href="/contact">Contact</a>
+          <a href="/faqs">Faqs</a>
         </div>
         <div className="right">
           {currentUser ? (
@@ -52,11 +52,11 @@ function Navbar () {
           </div>
           <div className={open ? "menu active" : "menu"}>
             <a href="/">Home</a>
-            <a href="/">About</a>
-            <a href="/">Contact</a>
-            <a href="/">Faqs</a>
-            <a href="/">Login</a>
-            <a href="/">Register</a>
+            <a href="/about">About</a>
+            <a href="/contact">Contact</a>
+            <a href="/faqs">Faqs</a>
+            <a href="/login">Login</a>
+            <a href="/register">Register</a>
           </div>
         </div>
     </nav>
