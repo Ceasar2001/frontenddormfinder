@@ -5,10 +5,10 @@ import{
 } from "react-router-dom";
 import ListPage from "./routes/listPage/listPage";
 import { Layout, RequireAuth } from "./routes/layout/layout";
-import SinglePage from "./routes/singlePage/SinglePage";
 import ProfilePage from "./routes/profile/profilePage";
 import Login from "./routes/login/login";
 import Register from "./routes/register/register";
+import SinglePage from "./routes/singlePage/singlePage";
 
 function App() {
 
